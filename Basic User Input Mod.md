@@ -1,5 +1,7 @@
 # 用户基本输入模块
 
+[TOC]
+
 ## pywinauto.mouse
 
 跨平台来模拟鼠标事件

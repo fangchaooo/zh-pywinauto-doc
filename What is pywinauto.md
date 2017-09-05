@@ -1,5 +1,7 @@
 # PYWINAUTO入门指南
 
+[TOC]
+
 > windows上支持的辅助技术列表
 >
 > - Win32 API(`backend = "win32"`)(现在默认)
@@ -95,7 +97,7 @@ dlg = Desktop(backend="uia").Calculator
 dlg.window(auto_id='num8Button', control_type='Button')
 ```
 
-### 
+
 
 ###魔法解析属性
 
